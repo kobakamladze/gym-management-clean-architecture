@@ -38,7 +38,6 @@ public class GymsController : ControllerBase
 
         return result.Match(
             _ => NoContent(),
-            // todo
             error => NoContent());
     }
 
