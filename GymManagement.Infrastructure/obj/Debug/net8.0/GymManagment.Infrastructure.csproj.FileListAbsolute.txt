@@ -1,0 +1,17 @@
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/bin/Debug/net8.0/GymManagment.Infrastructure.deps.json
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/bin/Debug/net8.0/GymManagment.Infrastructure.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/bin/Debug/net8.0/GymManagment.Infrastructure.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/bin/Debug/net8.0/GymManagment.Application.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/bin/Debug/net8.0/GymManagment.Domain.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/bin/Debug/net8.0/GymManagment.Application.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/bin/Debug/net8.0/GymManagment.Domain.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/obj/Debug/net8.0/GymManagment.Infrastructure.csproj.AssemblyReference.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/obj/Debug/net8.0/GymManagment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/obj/Debug/net8.0/GymManagment.Infrastructure.AssemblyInfoInputs.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/obj/Debug/net8.0/GymManagment.Infrastructure.AssemblyInfo.cs
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/obj/Debug/net8.0/GymManagment.Infrastructure.csproj.CoreCompileInputs.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/obj/Debug/net8.0/GymManagment.Infrastructure.csproj.CopyComplete
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/obj/Debug/net8.0/GymManagment.Infrastructure.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/obj/Debug/net8.0/refint/GymManagment.Infrastructure.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/obj/Debug/net8.0/GymManagment.Infrastructure.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Infrastructure/obj/Debug/net8.0/ref/GymManagment.Infrastructure.dll

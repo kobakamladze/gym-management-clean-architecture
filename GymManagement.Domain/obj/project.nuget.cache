@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bc3qk+fGTWRpfABKoTgiMhORTVIiNntJLzkJdK75mymxYcuvphu8GrcyIfO+Kqkpt02Nz4q1HvvFLDLaVxNMjw==",
+  "success": true,
+  "projectFilePath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/GymManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/koba/.nuget/packages/ardalis.smartenum/8.0.0/ardalis.smartenum.8.0.0.nupkg.sha512",
+    "/home/koba/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
+    "/home/koba/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/bin/Debug/net8.0/GymManagement.Domain.deps.json
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/bin/Debug/net8.0/GymManagement.Domain.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/bin/Debug/net8.0/GymManagement.Domain.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.AssemblyInfoInputs.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.AssemblyInfo.cs
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.csproj.CoreCompileInputs.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/obj/Debug/net8.0/refint/GymManagement.Domain.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/obj/Debug/net8.0/ref/GymManagement.Domain.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.csproj.AssemblyReference.cache

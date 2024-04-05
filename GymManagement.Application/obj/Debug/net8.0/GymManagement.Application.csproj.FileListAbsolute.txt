@@ -1,0 +1,15 @@
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/bin/Debug/net8.0/GymManagement.Application.deps.json
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/bin/Debug/net8.0/GymManagement.Application.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/bin/Debug/net8.0/GymManagement.Application.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/bin/Debug/net8.0/GymManagement.Domain.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/bin/Debug/net8.0/GymManagement.Domain.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.csproj.AssemblyReference.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.AssemblyInfoInputs.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.AssemblyInfo.cs
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.csproj.CoreCompileInputs.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.csproj.CopyComplete
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/obj/Debug/net8.0/refint/GymManagement.Application.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/obj/Debug/net8.0/ref/GymManagement.Application.dll

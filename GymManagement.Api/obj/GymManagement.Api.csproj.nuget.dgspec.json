@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Api/GymManagement.Api.csproj": {}
+  },
+  "projects": {
+    "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Api/GymManagement.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Api/GymManagement.Api.csproj",
+        "projectName": "GymManagement.Api",
+        "projectPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Api/GymManagement.Api.csproj",
+        "packagesPath": "/home/koba/.nuget/packages/",
+        "outputPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/koba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/GymManagement.Application.csproj": {
+                "projectPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/GymManagement.Application.csproj"
+              },
+              "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Contracts/GymManagement.Contracts.csproj": {
+                "projectPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Contracts/GymManagement.Contracts.csproj"
+              },
+              "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Infrastructure/GymManagement.Infrastructure.csproj": {
+                "projectPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Infrastructure/GymManagement.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/GymManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/GymManagement.Application.csproj",
+        "projectName": "GymManagement.Application",
+        "projectPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/GymManagement.Application.csproj",
+        "packagesPath": "/home/koba/.nuget/packages/",
+        "outputPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/koba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/GymManagement.Domain.csproj": {
+                "projectPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/GymManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Contracts/GymManagement.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Contracts/GymManagement.Contracts.csproj",
+        "projectName": "GymManagement.Contracts",
+        "projectPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Contracts/GymManagement.Contracts.csproj",
+        "packagesPath": "/home/koba/.nuget/packages/",
+        "outputPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/koba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/GymManagement.Application.csproj": {
+                "projectPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/GymManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/GymManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/GymManagement.Domain.csproj",
+        "projectName": "GymManagement.Domain",
+        "projectPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/GymManagement.Domain.csproj",
+        "packagesPath": "/home/koba/.nuget/packages/",
+        "outputPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/koba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Infrastructure/GymManagement.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Infrastructure/GymManagement.Infrastructure.csproj",
+        "projectName": "GymManagement.Infrastructure",
+        "projectPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Infrastructure/GymManagement.Infrastructure.csproj",
+        "packagesPath": "/home/koba/.nuget/packages/",
+        "outputPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/koba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/GymManagement.Application.csproj": {
+                "projectPath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/GymManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

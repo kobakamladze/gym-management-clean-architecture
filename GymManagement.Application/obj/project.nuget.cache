@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcP+9RFux9Wylc8UmsiiM2UOYbSucdilxX5+KL6Ty4mDsUtxLw9DyFXlseQ6kMnPmRc/vcw9kQZrhMHR1JmdlA==",
+  "success": true,
+  "projectFilePath": "/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagement.Application/GymManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/koba/.nuget/packages/ardalis.smartenum/8.0.0/ardalis.smartenum.8.0.0.nupkg.sha512",
+    "/home/koba/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
+    "/home/koba/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/home/koba/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/koba/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/home/koba/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/bin/Debug/net8.0/GymManagment.Application.deps.json
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/bin/Debug/net8.0/GymManagment.Application.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/bin/Debug/net8.0/GymManagment.Application.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/bin/Debug/net8.0/GymManagment.Domain.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/bin/Debug/net8.0/GymManagment.Domain.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/obj/Debug/net8.0/GymManagment.Application.csproj.AssemblyReference.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/obj/Debug/net8.0/GymManagment.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/obj/Debug/net8.0/GymManagment.Application.AssemblyInfoInputs.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/obj/Debug/net8.0/GymManagment.Application.AssemblyInfo.cs
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/obj/Debug/net8.0/GymManagment.Application.csproj.CoreCompileInputs.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/obj/Debug/net8.0/GymManagment.Application.csproj.CopyComplete
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/obj/Debug/net8.0/GymManagment.Application.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/obj/Debug/net8.0/refint/GymManagment.Application.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/obj/Debug/net8.0/GymManagment.Application.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Application/obj/Debug/net8.0/ref/GymManagment.Application.dll

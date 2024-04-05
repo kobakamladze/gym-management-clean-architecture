@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GymManagment.Api/1.0.0": {
+        "dependencies": {
+          "GymManagment.Application": "1.0.0",
+          "GymManagment.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "GymManagment.Api.dll": {}
+        }
+      },
+      "GymManagment.Application/1.0.0": {
+        "dependencies": {
+          "GymManagment.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GymManagment.Application.dll": {}
+        }
+      },
+      "GymManagment.Contracts/1.0.0": {
+        "dependencies": {
+          "GymManagment.Application": "1.0.0"
+        },
+        "runtime": {
+          "GymManagment.Contracts.dll": {}
+        }
+      },
+      "GymManagment.Domain/1.0.0": {
+        "runtime": {
+          "GymManagment.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GymManagment.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GymManagment.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GymManagment.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GymManagment.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

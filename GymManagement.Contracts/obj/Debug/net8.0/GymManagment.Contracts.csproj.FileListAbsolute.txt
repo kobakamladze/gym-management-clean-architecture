@@ -1,0 +1,17 @@
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/bin/Debug/net8.0/GymManagment.Contracts.deps.json
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/bin/Debug/net8.0/GymManagment.Contracts.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/bin/Debug/net8.0/GymManagment.Contracts.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/bin/Debug/net8.0/GymManagment.Application.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/bin/Debug/net8.0/GymManagment.Domain.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/bin/Debug/net8.0/GymManagment.Application.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/bin/Debug/net8.0/GymManagment.Domain.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/obj/Debug/net8.0/GymManagment.Contracts.csproj.AssemblyReference.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/obj/Debug/net8.0/GymManagment.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/obj/Debug/net8.0/GymManagment.Contracts.AssemblyInfoInputs.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/obj/Debug/net8.0/GymManagment.Contracts.AssemblyInfo.cs
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/obj/Debug/net8.0/GymManagment.Contracts.csproj.CoreCompileInputs.cache
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/obj/Debug/net8.0/GymManagment.Contracts.csproj.CopyComplete
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/obj/Debug/net8.0/GymManagment.Contracts.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/obj/Debug/net8.0/refint/GymManagment.Contracts.dll
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/obj/Debug/net8.0/GymManagment.Contracts.pdb
+/home/koba/Desktop/c#_practice/AmichaiCleanArchitecture/GymManagment.Contracts/obj/Debug/net8.0/ref/GymManagment.Contracts.dll
